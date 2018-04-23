@@ -7,3 +7,13 @@ C:\Users\Cyberadmin\Desktop\C# Projects\HomeWork4-19\HomeWork4-19\obj\Debug\Home
 C:\Users\Cyberadmin\Desktop\C# Projects\HomeWork4-19\HomeWork4-19\obj\Debug\HomeWork4-19.csproj.CoreCompileInputs.cache
 C:\Users\Cyberadmin\Desktop\C# Projects\HomeWork4-19\HomeWork4-19\obj\Debug\HomeWork4-19.exe
 C:\Users\Cyberadmin\Desktop\C# Projects\HomeWork4-19\HomeWork4-19\obj\Debug\HomeWork4-19.pdb
+C:\Users\Cyberadmin\Desktop\HomeWork4-19\HomeWork4-19\HomeWork4-19\obj\Debug\HomeWork4-19.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\HomeWork4-19\HomeWork4-19\HomeWork4-19\obj\Debug\HomeWork4_19.CustomerLookup.resources
+C:\Users\Cyberadmin\Desktop\HomeWork4-19\HomeWork4-19\HomeWork4-19\obj\Debug\HomeWork4_19.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\HomeWork4-19\HomeWork4-19\HomeWork4-19\obj\Debug\HomeWork4-19.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\HomeWork4-19\HomeWork4-19\HomeWork4-19\obj\Debug\HomeWork4-19.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\HomeWork4-19\HomeWork4-19\HomeWork4-19\obj\Debug\HomeWork4-19.exe
+C:\Users\Cyberadmin\Desktop\HomeWork4-19\HomeWork4-19\HomeWork4-19\obj\Debug\HomeWork4-19.pdb
+C:\Users\Cyberadmin\Desktop\HomeWork4-19\HomeWork4-19\HomeWork4-19\bin\Debug\HomeWork4-19.exe.config
+C:\Users\Cyberadmin\Desktop\HomeWork4-19\HomeWork4-19\HomeWork4-19\bin\Debug\HomeWork4-19.exe
+C:\Users\Cyberadmin\Desktop\HomeWork4-19\HomeWork4-19\HomeWork4-19\bin\Debug\HomeWork4-19.pdb

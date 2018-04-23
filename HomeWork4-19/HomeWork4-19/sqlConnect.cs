@@ -35,5 +35,29 @@ namespace HomeWork4_19
             return returnValue;
         }
 
+        public DataTable GetCustomerSales()
+        {
+            DataTable dtCustomers = new DataTable();
+
+            try
+            {
+                if (DBConnect())
+                {
+                    SqlDataAdapter sqlDA = new SqlDataAdapter("sp_CustomerSales", sqlConn);
+                    sqlDA.Fill(dtCustomers);
+                }
+                else
+                {
+                    throw new Exception("Could not connect to AdventureWorks Database.");
+                }
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+
+            return dtCustomers;
+        }
+
     }
 }
